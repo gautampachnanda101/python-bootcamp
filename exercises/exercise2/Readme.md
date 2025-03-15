@@ -11,7 +11,7 @@ Steps:
 - Create the function in App.py that imports the functions from Functions.py and calls them to print the title and a visual gap to the console and prints the following sentence using what you have leaned so far.
 expected output:
 
-```python
+```console
 App Name: Exercise 2 - functions
 ------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Steps:
 
 **Expected console output: Assuming the number of times to print the sentence is 3.**
 
-```python
+```console
 App Name: Exercise 2 - Creating Functions and using imports
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 How many times would you like to print the sentence?3

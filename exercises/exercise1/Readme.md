@@ -16,7 +16,7 @@ Steps:
 - Add a function to the file that prints a simple ASCII art representation of a triangle to the console.
 - Call the function to verify that it prints the expected output.
 - The console output should look like this:
-```
+```console
    /\
   /  \
  /    \
@@ -33,7 +33,7 @@ Steps:
 - Call the function to verify that it prints the expected output.
 - The console output should look like this:
 
-```python
+```console
 ====================
 ```
 ### `print_new_line()`
@@ -57,7 +57,7 @@ Steps:
 - Print the concatenation of the two variables to the console.
 - Call the function to verify that it prints the expected output.
 - The console output should look like this:
-```python
+```console
 Hello, World!
 ```
 
