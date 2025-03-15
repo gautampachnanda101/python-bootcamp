@@ -24,8 +24,18 @@ To set up the project, follow these steps:
 
 This command will execute the setup script located in the `setup` directory.
 
+
 ## Getting Started
 
 Once the tools are installed, you can start exploring the exercises and examples provided in the repository. Open the project in your preferred IDE (PyCharm or Visual Studio Code) and begin coding!
 
+
+There is answer folder under each exercise folder. You can check the answers there. 
+Also you can run all answers by running below command in the root directory of the project.
+
+```sh 
+make runAllAnswers
+```
+
 Happy learning!
+
