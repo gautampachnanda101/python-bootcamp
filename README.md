@@ -9,6 +9,18 @@ Before you begin, ensure you have the following:
 - **macOS**: This repository is designed to work on macOS.
 - **Internet Connection**: Required for downloading dependencies and tools.
 - **PyCharm or Visual Studio Code**: You can use either of these IDEs for development.
+- homebrew: You can install homebrew by running below command in terminal.
+    ```sh
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+- oh-my-zsh: You can install oh-my-zsh by running below command in terminal.
+    ```sh
+    sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    ```
+- pycharm: You can install pycharm by running below command in terminal.
+    ```sh
+    brew install pycharm
+    ```
 
 ## Installation
 

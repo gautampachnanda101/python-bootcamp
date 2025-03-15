@@ -20,4 +20,9 @@ echo "Installing Jupyter..."
 pip install --upgrade pip || true
 pip3 install jupyter || true
 brew install jupyterlab || true
+brew install pycharm || true
+brew install pyenv || true
+brew install pyenv-virtualenv || true
+brew install pyenv-virtualenvwrapper || true
+brew install --cask jetbrains-toolbox || true
 echo "Installation complete!"
